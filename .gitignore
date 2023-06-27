@@ -1,0 +1,15 @@
+# python
+*.npy
+.ipynb_checkpoints/
+
+# model
+/transformers/
+/Megatron-LM/
+*.txt
+*.bin
+*.idx
+gpt2-vocab.json
+index-cache/
+
+# vim
+*.swp
